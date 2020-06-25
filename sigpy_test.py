@@ -3,6 +3,7 @@ import sigpy.mri as mr
 import sigpy.mri.rf as rf
 import numpy as np
 import sigpy.plot as pl
+import matplotlib
 
 dim = 32
 Nc = 8
