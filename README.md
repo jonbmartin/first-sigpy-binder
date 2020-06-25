@@ -1,2 +1,2 @@
-# my-first-binder
-Learning to use binder 
+# first-sigpy-binder
+Playing with sigpy within binder, evaluating computational speed 
